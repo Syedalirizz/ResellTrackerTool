@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "reselltracker-8d4ea-fbea7",
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
